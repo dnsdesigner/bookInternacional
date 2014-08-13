@@ -1,0 +1,10 @@
+Procedimentos para criação de aplicativos Multi-linguagem
+
+1 - Definir os idiomas que serão adicionados clicando no ícone do projeto na primeira aba Info
+2 - Escolher o modo Localizable Strings para o StoryBoard e Arquivo de String, utilizando o arquivo base
+3 - Marcar quais idiomas vão ser utilizados
+4 - Traduzir cada arquivo Localizable.strings de seu respectivo idioma
+
+——————————————
+
+Uma segunda forma de fazer a tradução é gerando outros arquivos de interface do Storyboard, neste caso é necessário definir essa opção quando optar pela nova linguagem
